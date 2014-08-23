@@ -1,0 +1,55 @@
+scenes
+
+- Undefined adventure
+
+		He finds himself standing a inconcivable place
+		Who is he? how did he get here? where did all the potato salad go?
+
+		- take a look around
+
+		//- i am not gonna play you games, i call shinanigans!
+
+		A even soft white light fills your surroundings, your shadow seems to drop from unseen lightsource.
+
+		- look for the light source
+		- try to think
+			* you try to think, but you have nothing to think about, or maybe you are just daft?
+
+		You take a look at your surroundings (use WASD to move)
+
+		(After walking around for 10 seconds a anomaly appears)
+
+		You pick up the weird glowy thing, having no idea what it is you name it Bilbo.
+
+		- look around some more, maybere there's more Bilbo's aying around!!
+			(after 15 second of walking around)
+			not being able to find anything you stop, you decide to stop think about you actions
+				- you actions where most horrendous! surely you are evil!
+					you laugh like a loon for a few minutes
+				- take better look at bilbo, surely this precious thing is worth it!
+
+		you take a good look at bilbo, he seems to remind you of something, but you cannot seem to recall it.
+			- think harder!
+				you pop a vein in your forehead thinking about this and suddonly it strikes you, wasn't bilbo in a book you once read?
+			- try to swallow bilbo, maybe the taste will jog your mind!
+				this thing has the distinctive taste of hobbit! but what does it mean?
+
+
+- That level where he stands on a piller doing stuff 
+
+	Being swoopt away somehow you suddonly find you self standing on a large piller high in the sky.
+
+	You take a look at the bookshelf, it has a few books in it, they look rather dull, you do see on book of interest tho. It is labelled "Why you are here."
+		- take the oh so interesting book
+			You pick you the book
+				- throw the book over the side
+					You take a good firm grib on the book and throw it with all you strength, it really was a good book for throwing
+						- take another look at the books
+						- walk away, there are no more good throwables
+		- walk away, too many words around here..
+
+	You take a look at the bookshelf again
+		- take another look at the books
+		- walk away, too many words for one day..
+
+
